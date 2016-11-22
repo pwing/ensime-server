@@ -1,0 +1,4 @@
+* Ensime-Server.
+** Where to Start?
+in java world, as an application, all applications have a "main" method.  Similarly, the scala application is
+started with a def main method at[[file:server/src/main/scala/org/ensime/server/Server.scala::def%20main(args:%20Array%5BString%5D):%20Unit%20=%20{][ Server.scala]].  
